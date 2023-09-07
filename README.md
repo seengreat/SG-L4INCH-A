@@ -18,7 +18,7 @@ __Specifications__
 |Display Color	|RGB ,65K colors|
 |Resolution	|480x320 (Pixel)|
 |I/O Voltage	|3.3V/5V|
-|Product Dimensions |86mm*60mm|<br>
+|Product Dimensions |96mm*66mm|<br>
 # Usage
 ## 2.1、Interface Definition
 |Label	|Arduino UNO	|NUCLEO	|Description|
