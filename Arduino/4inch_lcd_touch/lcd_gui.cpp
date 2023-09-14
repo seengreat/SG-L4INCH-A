@@ -7,7 +7,7 @@
 #include <string.h>
 
 #include "lcd_gui.h"
-#include "lcd_3inch5.h"
+#include "lcd_4inch.h"
 
 #define FONT_BACKGROUND  0xffff
 
