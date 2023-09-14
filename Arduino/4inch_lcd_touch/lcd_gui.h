@@ -5,7 +5,7 @@
 #include <unistd.h>
 #include <stdlib.h>
 #include "fonts.h"
-#include "lcd_3inch5.h"
+#include "lcd_4inch.h"
 
 
 typedef enum{
