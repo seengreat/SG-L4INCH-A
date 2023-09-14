@@ -1,5 +1,5 @@
 /********************************
- *  Seengreat 3.5 Inch LCD Display demo
+ *  Seengreat 4 Inch LCD Display demo
  *  Author(s):Andy Li from Seengreat
  * ********************************/
  
