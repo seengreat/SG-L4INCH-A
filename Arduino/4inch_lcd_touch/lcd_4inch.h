@@ -1,5 +1,5 @@
-#ifndef __LCD_3INCH5_H
-#define __LCD_3INCH5_H
+#ifndef __LCD_4INCH_H
+#define __LCD_4INCH_H
 
 #include <SPI.h>
 #include <Wire.h>
